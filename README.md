@@ -3,7 +3,7 @@
 ![Desarrollador React - Typescript](https://res.cloudinary.com/ddbujqxjh/image/upload/v1690296048/Captura_de_pantalla_2023-07-25_114036_wuhmdf.png)
 
 ## 🛠 Conocimientos
-![Desarrollador React - Typescript](https://res.cloudinary.com/ddbujqxjh/image/upload/v1690296315/Captura_de_pantalla_2023-07-25_114507_pbssxm.png)
+React - Nodejs - Nextjs - Zustand - Redux - MaterialUi - TailwindCss - ChakraUi - Postman - Express - ReactQuery - Clean code - MongoDb - Html - Css - JavaScript
 
 ## 🔗 Links
 ``https://joel-yantorno.vercel.app``
