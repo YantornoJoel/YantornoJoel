@@ -1,9 +1,9 @@
 ### Hola 👋, ! Soy Joel Yantorno
 #### Desarrollador React - Typescript
-![Desarrollador React - Typescript](https://res.cloudinary.com/ddbujqxjh/image/upload/v1689735203/react-js-logo-no_pddky1.jpg)
+![Desarrollador React - Typescript](https://res.cloudinary.com/ddbujqxjh/image/upload/v1690296048/Captura_de_pantalla_2023-07-25_114036_wuhmdf.png)
 
-## 🛠 Skills
-React - Typescript - Nextjs - Node - Zustand - Redux - JavaScript - Css - Tailwind - Express - MaterialUi
+## 🛠 Conocimientos
+![Desarrollador React - Typescript](https://res.cloudinary.com/ddbujqxjh/image/upload/v1690296315/Captura_de_pantalla_2023-07-25_114507_pbssxm.png)
 
 ## 🔗 Links
 ``https://joel-yantorno.vercel.app``
